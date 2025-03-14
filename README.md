@@ -45,3 +45,8 @@
 | 🔑 **المالكين** | *حدد من سيكون له السيطرة الكاملة على الروبوت* | [![اضغط هنا](https://img.shields.io/badge/Aquí-green)](https://github.com/araab-zack/MoriBotRamadan-MD/blob/c74265fe42d465b52d64209a50b02a5af437b8b2/config.js#L15) |
 | ✏️ **تعديل الاسم** | *تغيير اسم البوت بسهولة* | [![اضغط هنا](https://img.shields.io/badge/Aquí-green)](https://github.com/araab-zack/MoriBotRamadan-MD/blob/c74265fe42d465b52d64209a50b02a5af437b8b2/config.js#L144) | 
 | 📲 **الاتصال باستخدام الكود (اختياري)** | *قم بربط رقمك مباشرة لتلقي رمز مكون من 8 أرقام.* | [![اضغط هنا](https://img.shields.io/badge/Aquí-green)](https://github.com/araab-zack/MoriBotRamadan-MD/blob/c74265fe42d465b52d64209a50b02a5af437b8b2/config.js#L44) |
+# 🌌 **ACTIVAR EN CODESPACE**
+
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?skip_quickstart=true&machine=basicLinux32gb&repo=GataNina-Li/GataBot-MD&ref=main&geo=UsEast)
+
+----- 
