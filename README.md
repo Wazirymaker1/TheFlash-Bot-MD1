@@ -30,7 +30,11 @@
 
 ### 👇 `جميع التحديثات موجودة هنا!!`
 [![الروابط](https://img.shields.io/badge/Mori-Channel-000000%7D?style=for-the-badge&logo=biolink&logoColor=white)](https://whatsapp.com/channel/0029Vb0WYOu2f3EAb74gf02h)
-> منصه ميجا هوست لي رفع بوتك عليها مضمونة 100% **[Mega Hosting 📍](https://host.joanimi-world.site)** 
+> منصه ميجا هوست لي رفع بوتك عليها مضمونة 100% **[Mega Hosting 📍](# 🌌 **ACTIVAR EN CODESPACE**
+
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?skip_quickstart=true&machine=basicLinux32gb&repo=GataNina-Li/GataBot-MD&ref=main&geo=UsEast)
+
+----- )** 
 </p>
 
 ### 🆕 أهم مميزات هذا المشروع إطلع على الملخص!
